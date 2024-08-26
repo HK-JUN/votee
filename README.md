@@ -11,14 +11,15 @@ The scipt simulates guessing a random word by analying response from each guess 
 
 ## Installation
 1. clone the repository:
+
     '''bash
     git clone https://github.com/HK-JUN/votee.git
     cd wordle
-    '''
+    
 2. install the required ptython packages:
+
     '''bash
     pip install requests english-words
-    '''
 ## Usage
 run the script by executing:
     '''bash
